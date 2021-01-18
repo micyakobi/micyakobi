@@ -1,8 +1,11 @@
 ### Hi, I'm Michael..👋
 
-Here are some ideas to get you started:
+
+  👤 About Me
+ 
 
  * 💼 Looking for full time job
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
