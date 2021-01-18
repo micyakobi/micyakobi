@@ -2,9 +2,6 @@
 
 <img src="https://user-images.githubusercontent.com/64555783/104968418-6f571a80-59ee-11eb-9b6f-0a5ce73ce982.gif" align="right">
 
-
-<br />
-
   <h4 align="left">👤 About Me</h4>
   
 * 💼 I'm looking for a full-time Fullstack software developer position.
