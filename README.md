@@ -2,13 +2,13 @@
 
 <img src="https://user-images.githubusercontent.com/64555783/104968418-6f571a80-59ee-11eb-9b6f-0a5ce73ce982.gif" align="right">
 
-  <h4 align="left">👤 About Me</h4>
+  <h3 align="left">👤 About Me</h3>
   
 * 💼 I'm looking for a full-time Fullstack software developer position.
 * 💪 I'm a self-taught, continuously searching for greater challenges.
 
 
-<h4 align="left">📝 Connect with me </h4>
+<h3 align="left">📝 Connect with me </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/michael-yaakobi-66aa74199" target="blank">
  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/michael-yaakobi-66aa74199" height="30" width="25" /></a>
