@@ -3,18 +3,21 @@
 <img src="https://user-images.githubusercontent.com/64555783/104968418-6f571a80-59ee-11eb-9b6f-0a5ce73ce982.gif" align="right">
 
 
-  👤 About Me
- 
-* 💼 Looking for full time job
+<br />
+
+  <h4 align="left">👤 About Me</h4>
+  
+* 💼 I'm looking for a full-time Fullstack software developer position.
+* 💪 I'm a self-taught, continuously searching for greater challenges.
 
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">📝 Connect with me </h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/michael-yaakobi-66aa74199" target="blank">
  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/michael-yaakobi-66aa74199" height="30" width="25" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/>
 </a> 
@@ -35,3 +38,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
 </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a> <a href="https://reactnative.dev/" target="_blank"> 
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/> </a> </p>
+
+
