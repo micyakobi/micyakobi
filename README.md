@@ -3,8 +3,7 @@
 
   👤 About Me
  
-
- * 💼 Looking for full time job
+* 💼 Looking for full time job
 
 
 <h3 align="left">Connect with me:</h3>
