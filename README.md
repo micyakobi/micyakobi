@@ -14,7 +14,7 @@
  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/michael-yaakobi-66aa74199" height="30" width="25" /></a>
 </p>
 
-<h3 align="left">🛠 Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/>
 </a> 
