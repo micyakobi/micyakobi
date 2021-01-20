@@ -8,7 +8,7 @@
 * 💪 I'm a self-taught, continuously searching for greater challenges.
 
 
-<h3 align="left">📝 Connect with me </h3>
+<h3 align="left">Connect with me </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/michael-yaakobi-66aa74199" target="blank">
  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/michael-yaakobi-66aa74199" height="30" width="25" /></a>
